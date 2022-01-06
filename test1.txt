@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 3031-6718
+
+ Directory of C:\Users\jyothika\OneDrive\Desktop\mm
+
+06-01-2022  15:26    <DIR>          .
+06-01-2022  15:24    <DIR>          ..
+06-01-2022  15:27                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  185,992,167,424 bytes free
